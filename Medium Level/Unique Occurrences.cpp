@@ -1,5 +1,9 @@
 /* Problem - 
 https://binarysearch.com/problems/Unique-Occurrences
+
+Q. Given a list of integers nums, return whether the number of occurrences of every value in the array is unique.
+
+Note: Numbers can be negative.
 */
 
 bool solve(vector<int>& nums) {
