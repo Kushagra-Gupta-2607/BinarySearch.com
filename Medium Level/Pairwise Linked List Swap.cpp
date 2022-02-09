@@ -1,5 +1,7 @@
 /* Problem -
 https://binarysearch.com/problems/Pairwise-Linked-List-Swap
+
+Q. Given a singly linked list node, swap each pair of nodes and return the new head.
 */
 
 /**
