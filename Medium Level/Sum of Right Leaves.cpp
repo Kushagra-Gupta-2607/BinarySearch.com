@@ -1,5 +1,5 @@
 /* Problem - 
-https://binarysearch.com/problems/Palindromic-Anagram
+https://binarysearch.com/problems/Sum-of-Right-Leaves
 
 Q. Given a binary tree root, return the sum of all leaves that are right children.
 */
