@@ -1,5 +1,5 @@
 /* Problem -
-https://binarysearch.com/problems/Balanced-Brackets
+https://binarysearch.com/problems/Merging-K-Sorted-Lists
 
 Q. Given a list of sorted lists of integers, merge them into one large sorted list.
 */
